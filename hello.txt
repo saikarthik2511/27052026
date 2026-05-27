@@ -1,3 +1,5 @@
 Today is Monday
 Hi
 Hello
+Tuesday
+Wednesday
