@@ -2,6 +2,7 @@ Today is Monday
 Hi
 Hello
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 Akshay
@@ -10,3 +11,7 @@ Likitha
 Tuesday
 Wednesday
 >>>>>>> d7aa27d (Fourth commit)
+=======
+Tuesday
+Wednesday
+>>>>>>> dev
